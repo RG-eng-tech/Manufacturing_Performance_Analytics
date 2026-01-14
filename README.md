@@ -1,6 +1,6 @@
-# Manufacturing_Performance_Analytics
-End-to-end manufacturing performance analysis using SQL, Power BI, and Tableau to track production efficiency, rejection rates, and operational KPI's.
 # Manufacturing Performance Analytics & KPI Dashboard
+End-to-end manufacturing performance analysis using SQL, Power BI, and Tableau to track production efficiency, rejection rates, and operational KPI's.
+
 
 # Project Overview
 This project analyzes manufacturing operations to evaluate production efficiency, quality performance, and operational bottlenecks. Using SQL for data analysis and Power BI and Tableau for visualization, the project delivers actionable insights through interactive dashboards and KPIs.
